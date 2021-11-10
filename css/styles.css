@@ -37,9 +37,14 @@ opacity: .8;}
 
 ol {padding-left: 20px;}
 
-ol li {padding: 5px;color:#000;}
+ol li {
+  padding: 5px;color:#000;
+  background: #c0c0c0;
+}
 
-ol li:nth-child(even){background: #dfdfdf;}
+ol li:nth-child(even){
+  background: #dfdfdf;
+}
 
 .strike{text-decoration: line-through;}
 
